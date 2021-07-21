@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Start in Esports and Gaming <span>2020-present</span></h2>
+                        <p>In 2017 I just moved out of my parents and was a watching tons of esports. I then applied to a ton of different game developers and esports orgs and Team Liquid got back to me. After which I began doing some volunteer and part-time work for them. As time went on I kept doing work for them until I was asked to join the Liquid+ team full-time in 2020 and I've bee doing that ever since!</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Post-Grad Work<span>2015-2020</span></h2>
+                        <p>Post grad I worked in many differen industries and jobs. From automotive consulting and big data collection to digital advertising and promotions. Afterwhich I then did work for Ford Motor in their new Automotive Teleamatics department and then to Ally Finanical for Automotive sales. While I have worked many jobs the constant chaning helped me learn what I actually loved to do and work on.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Undergraduate<span>2011-2015</span></h2>
+                        <p>I went to the University of Michigan where I played college soccer and completed my degree in Software Engineering with a specialization in Video Game design.  I took courses such as Game Design, Multimedia tools, Database Structure, and Algorithms & Design Patterns.  Along with many Web Development classes to help build fundamentals there.</p> 
                       </div>
                     </div>
                   </article>

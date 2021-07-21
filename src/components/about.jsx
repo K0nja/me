@@ -37,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Front-End Web Development</h3>
+                    <p>I have experience building websites and services using React, HTML, CSS, Vue.js, and Angular.js</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Back-End Web Development</h3>
+                    <p>Work in a variety of differnet backends using Spring-Boot, Express.js, and even C#</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Game Development</h3>
+                    <p>For fun I like to make games and mess around with Unity and Unreal</p>
                 </div>
                 </div>
             </div>
