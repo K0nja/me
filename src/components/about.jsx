@@ -30,10 +30,11 @@ export default class About extends Component {
                                             <p>
                                                 I have always wanted to work in
                                                 the video game industry in
-                                                anyway since I was a child. My
-                                                mom even remembers a day when I
-                                                was in kindergarden and I said
-                                                "I want to make video games!"
+                                                anyway possible since I was a
+                                                child. My mom even remembers a
+                                                day when I was in kindergarden
+                                                and I said "I want to make video
+                                                games when I grow up!"
                                             </p>
                                         </div>
                                     </div>
@@ -66,7 +67,7 @@ export default class About extends Component {
                                         <p>
                                             I have experience building websites
                                             and services using React, HTML, CSS,
-                                            Vue.js, and Angular.js
+                                            Vue.js, and Angular.js.
                                         </p>
                                     </div>
                                 </div>
@@ -79,9 +80,10 @@ export default class About extends Component {
                                     <div className="desc">
                                         <h3>Back-End Web Development</h3>
                                         <p>
-                                            Work in a variety of differnet
-                                            backends using Spring-Boot,
-                                            Express.js, and even C#
+                                            In my time I have worked with a
+                                            variety of differnet backends such
+                                            as things using Spring-Boot,
+                                            Express.js, and even C#.
                                         </p>
                                     </div>
                                 </div>
@@ -95,7 +97,8 @@ export default class About extends Component {
                                         <h3>Game Development</h3>
                                         <p>
                                             For fun I like to make games and
-                                            mess around with Unity and Unreal
+                                            mess around with different game
+                                            engines like Unity and Unreal.
                                         </p>
                                     </div>
                                 </div>
