@@ -27,8 +27,8 @@ export default class About extends Component {
                                                 Specifically Liverpool FC and
                                                 anything esports and Twitch. I
                                                 currently work for Team Liquid
-                                                as a Software Developer for
-                                                their Liquid+ loyalty platform.
+                                                as a Software Developer on the
+                                                Liquid+ loyalty platform.
                                             </p>
                                             <p>
                                                 I have always wanted to work in
