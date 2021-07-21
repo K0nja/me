@@ -37,21 +37,19 @@ export default class Timeline extends Component {
                                                     <span>2020-present</span>
                                                 </h2>
                                                 <p>
-                                                    In 2017 I just moved out of
-                                                    my parents and was a
+                                                    In 2017 I moved out of my
+                                                    parents' house and was
                                                     watching tons of esports. I
-                                                    then applied to a ton of
-                                                    different game developers
-                                                    and esports orgs and Team
-                                                    Liquid got back to me. After
-                                                    which I began doing some
-                                                    volunteer and part-time work
-                                                    for them. As time went on I
-                                                    kept doing work for them
-                                                    until I was asked to join
-                                                    the Liquid+ team full-time
-                                                    in 2020 and I've bee doing
-                                                    that ever since!
+                                                    then applied to different
+                                                    game developers and esports
+                                                    orgs and Team Liquid got
+                                                    back to me. I began doing
+                                                    some volunteer and part-time
+                                                    work for them. As time went
+                                                    on, I kept doing work for
+                                                    them until I was asked to
+                                                    join the Liquid+ team
+                                                    full-time in 2020!
                                                 </p>
                                             </div>
                                         </div>
@@ -70,22 +68,22 @@ export default class Timeline extends Component {
                                                     <span>2015-2020</span>
                                                 </h2>
                                                 <p>
-                                                    Post grad I worked in many
-                                                    different industries and
-                                                    jobs. From automotive
-                                                    consulting and big data
-                                                    collection to digital
-                                                    advertising and promotions.
-                                                    Afterwards I then did work
-                                                    for Ford Motor in their new
-                                                    Automotive Teleamatics
-                                                    department and then to Ally
-                                                    Finanical for automotive
-                                                    sales. While I have worked
-                                                    many jobs the constant
-                                                    changing helped me learn
-                                                    what I actually loved to do
-                                                    and work on.
+                                                    I worked in many different
+                                                    industries and jobs after
+                                                    earning my degree. From
+                                                    automotive consulting and
+                                                    big data collection to
+                                                    digital advertising and
+                                                    promotions. After those
+                                                    roles, I worked for Ford in
+                                                    their new Automotive
+                                                    Telematics department and
+                                                    then Ally Finanical in
+                                                    automotive sales. While I
+                                                    have worked many jobs, the
+                                                    constant changing helped me
+                                                    learn what I actually loved
+                                                    to do and work on.
                                                 </p>
                                             </div>
                                         </div>
@@ -104,8 +102,8 @@ export default class Timeline extends Component {
                                                     <span>2011-2015</span>
                                                 </h2>
                                                 <p>
-                                                    I went to the University of
-                                                    Michigan where I played
+                                                    I attended to the University
+                                                    of Michigan where I played
                                                     college soccer and completed
                                                     my degree in Software
                                                     Engineering with a
@@ -114,9 +112,10 @@ export default class Timeline extends Component {
                                                     as Game Design, Multimedia
                                                     Tools, Database Structures,
                                                     and Algorithms & Design
-                                                    Patterns. Along with many
-                                                    Web Development classes to
-                                                    help build fundamentals in a
+                                                    Patterns. Additionally,
+                                                    completed many Web
+                                                    Development classes to help
+                                                    build fundamentals in a
                                                     different avenue .
                                                 </p>
                                             </div>

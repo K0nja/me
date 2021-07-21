@@ -55,7 +55,7 @@ export default class About extends Component {
                             >
                                 <span className="heading-meta">What I do?</span>
                                 <h2 className="colorlib-heading">
-                                    Here are some of my expertise
+                                    Here are some of my areas of expertise
                                 </h2>
                             </div>
                         </div>
@@ -83,9 +83,9 @@ export default class About extends Component {
                                     <div className="desc">
                                         <h3>Back-End Web Development</h3>
                                         <p>
-                                            In my time I have worked with a
-                                            variety of differnet backends such
-                                            as things using Spring-Boot,
+                                            In my time, I have worked with a
+                                            variety of different backends such
+                                            as projects using Spring-Boot,
                                             Express.js, and even C#.
                                         </p>
                                     </div>
@@ -99,7 +99,7 @@ export default class About extends Component {
                                     <div className="desc">
                                         <h3>Game Development</h3>
                                         <p>
-                                            For fun I like to make games and
+                                            For fun, I like to make games and
                                             mess around with different game
                                             engines like Unity and Unreal.
                                         </p>
