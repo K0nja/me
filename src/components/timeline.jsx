@@ -102,8 +102,8 @@ export default class Timeline extends Component {
                                                     <span>2011-2015</span>
                                                 </h2>
                                                 <p>
-                                                    I attended to the University
-                                                    of Michigan where I played
+                                                    I attended the University of
+                                                    Michigan where I played
                                                     college soccer and completed
                                                     my degree in Software
                                                     Engineering with a
