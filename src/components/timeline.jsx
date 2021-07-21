@@ -64,7 +64,7 @@ export default class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>
-                                                    Post-Grad Work
+                                                    Post-Grad Work{" "}
                                                     <span>2015-2020</span>
                                                 </h2>
                                                 <p>
@@ -98,7 +98,7 @@ export default class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>
-                                                    Undergraduate
+                                                    Undergraduate{" "}
                                                     <span>2011-2015</span>
                                                 </h2>
                                                 <p>
