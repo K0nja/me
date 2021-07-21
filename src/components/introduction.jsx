@@ -35,7 +35,7 @@ export default class Introduction extends Component {
                                                     <p>
                                                         <a
                                                             className="btn btn-primary btn-learn"
-                                                            href="https://www.dropbox.com/s/fuje5qashg371s4/MarioKonja%2004-19-2021.pdf?dl=0"
+                                                            href="https://www.dropbox.com/s/ol9o0fojtiemmjo/MarioKonja%2004-19-2021%20No%20Phone%20Number.pdf?dl=0"
                                                             target="_blank"
                                                             rel="noopener noreferrer"
                                                         >
