@@ -15,7 +15,7 @@ export default class About extends Component {
                                     <div className="col-md-12">
                                         <div className="about-desc">
                                             <span className="heading-meta">
-                                                About Us
+                                                About Me
                                             </span>
                                             <h2 className="colorlib-heading">
                                                 Who Am I?
@@ -25,7 +25,10 @@ export default class About extends Component {
                                                 with an insane passion for two
                                                 things: Soccer and Video Games.
                                                 Specifically Liverpool FC and
-                                                anything esports and Twitch.
+                                                anything esports and Twitch. I
+                                                currently work for Team Liquid
+                                                as a Software Developer for
+                                                their Liquid+ loyalty platform.
                                             </p>
                                             <p>
                                                 I have always wanted to work in
