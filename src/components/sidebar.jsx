@@ -113,7 +113,7 @@ export default class Sidebar extends Component {
                                 </li>
                                 <li>
                                     <a
-                                        href="https://www.linkedin.com/in/mario-konja-6048157a/"
+                                        href="www.linkedin.com/in/mario-konja"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
