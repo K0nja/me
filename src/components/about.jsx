@@ -26,9 +26,9 @@ export default class About extends Component {
                                                 things: Soccer and Video Games.
                                                 Specifically Liverpool FC and
                                                 anything esports and Twitch. I
-                                                currently work for Team Liquid
-                                                as a Software Developer on the
-                                                Liquid+ loyalty platform.
+                                                currently work for Ford Motor Company
+                                                as a Software Engineer on the
+                                                Ford Pro Intelligence platform.
                                             </p>
                                             <p>
                                                 I have always wanted to work in

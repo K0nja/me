@@ -33,23 +33,11 @@ export default class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>
-                                                    Start in Esports and Gaming{" "}
-                                                    <span>2020-present</span>
+                                                    Current Role{" "}
+                                                    <span>2022-present</span>
                                                 </h2>
                                                 <p>
-                                                    In 2017 I moved out of my
-                                                    parents' house and was
-                                                    watching tons of esports. I
-                                                    then applied to different
-                                                    game developers and esports
-                                                    orgs and Team Liquid got
-                                                    back to me. I began doing
-                                                    some volunteer and part-time
-                                                    work for them. As time went
-                                                    on, I kept doing work for
-                                                    them until I was asked to
-                                                    join the Liquid+ team
-                                                    full-time in 2020!
+                                                    In 2022 I made the decision to return to Ford Motor company and rejoin the team I left. I currently love the team and project I work on and feel like I am learning something new everyday.
                                                 </p>
                                             </div>
                                         </div>
@@ -65,7 +53,7 @@ export default class Timeline extends Component {
                                             <div className="timeline-label">
                                                 <h2>
                                                     Post-Grad Work{" "}
-                                                    <span>2015-2020</span>
+                                                    <span>2015-2022</span>
                                                 </h2>
                                                 <p>
                                                     I worked in many different
@@ -79,7 +67,7 @@ export default class Timeline extends Component {
                                                     their new Automotive
                                                     Telematics department and
                                                     then Ally Finanical in
-                                                    automotive sales. While I
+                                                    automotive sales. After, I joined Team Liquid and worked in esports and gaming for some time. While I
                                                     have worked many jobs, the
                                                     constant changing helped me
                                                     learn what I actually loved
